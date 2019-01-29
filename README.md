@@ -7,7 +7,7 @@
 Table of Contents
 =================
 
-  1. Understanding Matched Market Testing(#section-one)
+  [1. Understanding Matched Market Testing](#section-one)
   2. Matched Market Pre-implementation Set Up
   3. Matching the Markets
         * [OR using Pathogen:](#or-using-pathogen)
